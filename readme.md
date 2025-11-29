@@ -20,8 +20,7 @@ Git is a **Distributed Version Control System (DVCS)** used to track code change
 * Enables team collaboration
 * Supports branching for safe feature development
 * Fast & reliable
-* Works offline
-* Essential for DevOps, CI/CD & modern development
+* Any Where you can work
 
 ---
 
@@ -31,7 +30,7 @@ Git is a **Distributed Version Control System (DVCS)** used to track code change
 | ---------- | ---------------------------- | ---------------------------------------------- |
 | **Git**    | Version Control System       | Tracks and manages code locally                |
 | **GitHub** | Cloud Hosting Platform       | Stores Git repos, pull requests, collaboration |
-| **GitLab** | Git Hosting + CI/CD Platform | Versioning + DevOps pipelines                  |
+| **GitLab** | Cloud Platform + CI/CD Platform | Code Store, Versioning + DevOps pipelines                  |
 
 ---
 
@@ -43,7 +42,6 @@ Git is a **Distributed Version Control System (DVCS)** used to track code change
 * Develop features separately
 * Fix bugs without affecting production
 * Integrate into CI/CD pipelines
-* Required skill for DevOps & open-source
 
 ---
 
